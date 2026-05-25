@@ -1,0 +1,6 @@
+﻿print("Projetos separados por pasta:")
+print("- sistema_midias/main.py")
+print("- sistema_funcionarios/main.py")
+print("- sistema_notificacoes/main.py")
+print("- sistema_impressao/main.py")
+print("- sistema_armazenamento/main.py")
